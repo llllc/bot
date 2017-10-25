@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "James Li",
+  "license": "ISC",
+  "dependencies": {
+    "alphavantage": "0.0.7"
+  }
+}
